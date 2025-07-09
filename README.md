@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Soham Chaudhari
 
 I'm a passionate developer focused on **Full-Stack Web Development (MERN)** and **Artificial Intelligence / Machine Learning**. I enjoy building real-world applications and contributing to open-source projects.
@@ -14,16 +13,20 @@ I'm a passionate developer focused on **Full-Stack Web Development (MERN)** and 
 - **Other Projects:** Explore more in my pinned repositories.
 
 ## 💡 Club Involvement
-I’m an active contributor and project lead at the **AI Research and Innovation Forum (ARIF)**, a tech club focused on applying AI and software to solve real-world problems.
+Active contributor and project lead at the **AI Research and Innovation Forum (ARIF)**, a student club focused on solving real-world problems with AI and software.
 
 ## 🌱 Currently Learning
 - Cloud deployment (Docker, AWS)
 - Advanced backend optimization
 - Real-time systems and automation
 
-## 🤝 Let's Connect
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- Portfolio: [your-portfolio](https://your-portfolio.com)
-- Email: youremail@example.com
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/soham-chaudhari-174b4b287/))  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Soham156)  
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Soham_C59)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/soham_12913)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@sohamchaudhari165)  
 
 ---
+
